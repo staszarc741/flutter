@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402787004440",
+    "project_id": "tnpu-fizmat",
+    "storage_bucket": "tnpu-fizmat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402787004440:android:b5486284c2dd6a5ebf536d",
+        "android_client_info": {
+          "package_name": "com.example.fizmat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqdWn0S9z5_gASDY-Le4TtlMaydgMi98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
